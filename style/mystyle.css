@@ -896,6 +896,23 @@ font-weight: bold;
 	margin-right: 20px;
 	margin-left: 20px;
 }
+.team-members{
+width: 100%;
+display: inline-block;
+
+
+}
+.partners{
+    width: 49%;
+    display: inline-block;
+}
+
+.partners p{
+font-size:1.2em;
+padding-left: 5vw;
+padding-right:5vw;
+}
+
 #readmore>button{
 	background: none;
 	border: 1px solid #020243; 
