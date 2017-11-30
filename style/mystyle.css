@@ -38,6 +38,7 @@
 
 .article-text{
 	position: relative;
+    top: -30vh;
     width: 59%;
     display: inline-block;
 }
