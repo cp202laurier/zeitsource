@@ -9,6 +9,19 @@
  */
 
 
+ 
+ .watches{
+		width: 30%;
+		display: inline-block;
+	}
+
+.watches p{
+	font-size:1.2em;
+	padding-left: 5vw;
+	padding-right:5vw;
+	}
+	
+	
 .allcontain{
 	max-width: 1366px;
 	margin-left: auto;
@@ -1471,6 +1484,17 @@ left: 0%;
 	}
 
 	.partners p{
+	font-size:1.2em;
+	padding-left: 5vw;
+	padding-right:5vw;
+	}
+	
+	.watches{
+		width: 100%;
+		display: inline-block;
+	}
+
+	.watches p{
 	font-size:1.2em;
 	padding-left: 5vw;
 	padding-right:5vw;
