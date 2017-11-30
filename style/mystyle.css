@@ -1465,21 +1465,21 @@ left: 0%;
  	.rightside>button{
  		font-size: 26px;
  	}
+
+ 
+ 
+	.partners{
+		width: 100%;
+		display: inline-block;
+	}
+
+	.partners p{
+	font-size:1.2em;
+	padding-left: 5vw;
+	padding-right:5vw;
+	}
+
  }
- 
- 
-.partners{
-    width: 100%;
-    display: inline-block;
-}
-
-.partners p{
-font-size:1.2em;
-padding-left: 5vw;
-padding-right:5vw;
-}
-
-
 
 
 @media screen and (max-width:1200px){
