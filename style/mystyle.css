@@ -22,7 +22,7 @@
 } 
  
 .article-left{
-	width:30%;
+	width:40%;
 	display: inline-block;
 	height: 100%;
 	overflow: hidden;
@@ -38,8 +38,7 @@
 
 .article-text{
 	position: relative;
-    top: -38vh;
-    width: 69%;
+    width: 59%;
     display: inline-block;
 }
  
