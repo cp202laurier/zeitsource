@@ -9,7 +9,36 @@
  */
 
 
+ .article{
+	padding-left:10vw;
+	padding-right:10vw;
+	width:100%;
+	background-color:#efefef; 	
+	height:20vw;
+} 
  
+.article-pic{
+	width:30%;
+	display: inline-block;
+	height: 100%;
+	background-image: /image/aricle1.jpg;
+	
+		
+}
+
+.article-text{
+	width:70%;
+	display:inline-block;	
+}
+ 
+ .article-text p{
+	padding-left:5vw;
+	padding-right:5vw;
+	font-size: 1.2em;
+}
+
+
+
  .watches{
 		width: 32.9%;
 		display: inline-block;
@@ -62,6 +91,9 @@ text-decoration: none;
 	color: #C59E47;
 
 }
+ 
+ 
+ 
  
 .givusacall{
 	list-style-type: none;
