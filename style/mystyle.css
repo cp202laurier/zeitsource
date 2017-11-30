@@ -10,11 +10,10 @@
 
 
  .article{
-	padding-left:10vw;
-	padding-right:10vw;
-	width:100%;
-	background-color:#efefef; 	
-	height:50vh;
+	margin-left: 10vw;
+    width: 80%;
+    background-color: #efefef;
+    height: 50vh;
 } 
  
 .article-pic{
