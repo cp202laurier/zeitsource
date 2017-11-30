@@ -467,6 +467,7 @@ font-size: 15.88pt;
 
 
 .carousel-caption {
+text-align:left;
     top: 5%;
     left: 13%;
     right: auto;
