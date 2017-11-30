@@ -22,6 +22,12 @@
 	padding: 0px;
 }
 
+
+.grid{
+background-color: black;	
+}
+
+
 .socialicon{
 list-style-type: none;
 display: inline-block;
