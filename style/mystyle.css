@@ -1466,6 +1466,22 @@ left: 0%;
  		font-size: 26px;
  	}
  }
+ 
+ 
+.partners{
+    width: 80%;
+    display: inline-block;
+}
+
+.partners p{
+font-size:1.2em;
+padding-left: 5vw;
+padding-right:5vw;
+}
+
+
+
+
 @media screen and (max-width:1200px){
 	.leftside>h1{
 		font-size: 16px;
