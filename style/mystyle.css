@@ -16,8 +16,16 @@
     height: 50vh;
 } 
  
-.article-pic{
+ 
+.article-left{
 	width:30%;
+	display: inline-block;
+	height: 100%;
+	overflow: hidden;
+	
+		
+}
+.article-pic{
 	display: inline-block;
 	height: 100%;
 	
