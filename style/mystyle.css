@@ -38,15 +38,15 @@
 
 .article-text{
 	position: relative;
-    top: -30vh;
+    top: -10vh;
     width: 59%;
     display: inline-block;
 }
  
  .article-text p{
-	margin-left:5vw;
-	margin-right:5vw;
-	font-size: 1.2em;
+
+    margin-left: 2vw;
+    margin-right: 2vw;
 }
 
 
