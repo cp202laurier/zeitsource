@@ -26,13 +26,13 @@
 }
 
 .article-text{
-	width:70%;
+	width:69%;
 	display:inline-block;	
 }
  
  .article-text p{
-	padding-left:5vw;
-	padding-right:5vw;
+	margin-left:5vw;
+	margin-right:5vw;
 	font-size: 1.2em;
 }
 
