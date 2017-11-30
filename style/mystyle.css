@@ -174,7 +174,14 @@ padding-left: 5%;
 }
 }
 @media screen and (max-width: 440px){
-	
+	.article {
+    margin-left: 10vw;
+    width: 80%;
+    background-color: #efefef;
+    height: 100vh;
+	}
+
+
 	.article-left {
     width: 100%;
     display: inline-block;
