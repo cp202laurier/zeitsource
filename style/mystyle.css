@@ -15,7 +15,11 @@
     background-color: #efefef;
     height: 50vh;
 } 
- 
+
+ .article img{
+	height:100%;
+	vertical-align:center;
+} 
  
 .article-left{
 	width:30%;
