@@ -178,7 +178,6 @@ padding-left: 5%;
 	.article-left {
     width: 100%;
     display: inline-block;
-    height: 100%;
     overflow: hidden;
 	
 	
@@ -187,13 +186,17 @@ padding-left: 5%;
 	
 	.article-text {
     position: relative;
-    top: -69vh;
+    top: -70vh;
     margin-left: 3%;
     width: 94%;
     display: inline-block;
 }
-	
-	
+
+
+.article-pic {
+    display: inline-block;
+    height: 30%;
+}
 	
 	
 	
